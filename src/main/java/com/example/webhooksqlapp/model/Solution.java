@@ -5,7 +5,7 @@ import org.springframework.data.annotation.Id;
 import java.time.LocalDateTime;
 
 @Data
-public class class Solution {
+public class Solution {
     @Id
     private Long id;
     private Long problemId;
